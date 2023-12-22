@@ -28,7 +28,6 @@ This Rust program simulates the Dolev-Strong algorithm, a protocol used in distr
 
 ### Steps to Run
 1. cargo run
-   ```
 
 Observe the output in the terminal to see the decisions made by each node and the messages passed in the network.
 
